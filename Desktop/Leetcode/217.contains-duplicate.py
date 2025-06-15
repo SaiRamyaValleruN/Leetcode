@@ -14,4 +14,9 @@ class Solution:
             hashset.add(n)
         return False
 # @lc code=end
+"""
+Time  : O(n)
+Space : O(n)
+"""
+
 
