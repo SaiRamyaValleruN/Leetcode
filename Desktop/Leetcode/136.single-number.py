@@ -13,4 +13,7 @@ class Solution(object):
         return result
         
 # @lc code=end
-
+'''
+Time = O(n)
+Space = O(1)
+'''
